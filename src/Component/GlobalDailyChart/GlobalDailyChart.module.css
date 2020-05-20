@@ -1,0 +1,14 @@
+.container{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 150px;
+}
+
+.caption{
+    margin-bottom: 3% !important;
+}
+
+.content{
+    margin-bottom: 5% !important;
+    text-align: left;
+}
